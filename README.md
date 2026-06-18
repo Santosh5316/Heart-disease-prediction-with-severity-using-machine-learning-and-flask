@@ -105,4 +105,4 @@ Trained model files (`.h5`, `.pkl`) are intentionally excluded from this reposit
 ---
 
 ## Author
-Junaid Pasha F.
+K S Santosh
